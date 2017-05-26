@@ -1,0 +1,10 @@
+* {
+    background-color: blueviolet;
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+div {
+    background-color: greenyellow;
+}
