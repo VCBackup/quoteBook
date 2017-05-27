@@ -1,10 +1,18 @@
 * {
-    background-color: blueviolet;
     box-sizing: border-box;
 }
 body {
     margin: 0px;
 }
 div {
-    background-color: greenyellow;
+    background-color: blanchedalmond;
+}
+.text {
+    font-size: 20px;
+}
+.author {
+    font-size: 24px;
+}
+.delete {
+    background-color: lightgray;
 }
